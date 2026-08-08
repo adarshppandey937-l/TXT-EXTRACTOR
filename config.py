@@ -1,7 +1,7 @@
 import os
 from os import getenv
 
-API_ID = int(os.environ.get("24684505", ""))  # Replace "123456" with your actual api_id or use .env
+API_ID = int(os.environ.get("2468455", ""))  # Replace "123456" with your actual api_id or use .env
 API_HASH = os.environ.get("c4aade88dbad511f7cc60ee4b69970d1", "")
 BOT_TOKEN = os.environ.get("7646492610:AAGbs5Q7z6dpoeckZCoOrIQl7Goa_X94mSI", "")
 
